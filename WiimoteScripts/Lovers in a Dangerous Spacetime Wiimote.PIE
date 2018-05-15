@@ -1,0 +1,32 @@
+// Wiimote script for Lovers in a Dangerous Spacetime
+
+Key.W = Wiimote1.Right
+Key.A = Wiimote1.Up
+Key.D = Wiimote1.Down
+Key.S = Wiimote1.Left
+Key.Z = Wiimote1.Two
+Key.Shift = Wiimote1.One
+Key.X = Wiimote1.Plus
+Key.C = Wiimote1.Minus
+
+// Player 2 LEDs
+Wiimote1.LED1 = false;
+Wiimote1.LED2 = true;
+Wiimote1.LED3 = false;
+Wiimote1.LED4 = false;
+
+// Player 1 settings
+Key.Up = Wiimote2.Right
+Key.Left = Wiimote2.Up
+Key.Right = Wiimote2.Down
+Key.Down = Wiimote2.Left
+Key.M = Wiimote2.Two
+Key.Space = Wiimote2.One
+Key.N = Wiimote2.Plus
+Key.B = Wiimote2.Minus
+
+// Player 1 LEDs
+Wiimote2.LED1 = true;
+Wiimote2.LED2 = false;
+Wiimote2.LED3 = false;
+Wiimote2.LED4 = false;
