@@ -1,0 +1,31 @@
+// Wiimote script for Sonic Mania
+
+// Player 1 settings 
+Key.Up = Wiimote1.Right
+Key.Left = Wiimote1.Up
+Key.Right = Wiimote1.Down
+Key.Down = Wiimote1.Left
+Key.A = Wiimote1.Two
+Key.S = Wiimote1.One
+Key.Enter = Wiimote1.Plus
+
+// Player 1 LEDs
+Wiimote1.LED1 = true;
+Wiimote1.LED2 = false;
+Wiimote1.LED3 = false;
+Wiimote1.LED4 = false;
+
+// Player 2 settings
+Key.NumPad8 = Wiimote2.Right
+Key.NumPad4 = Wiimote2.Up
+Key.NumPad6 = Wiimote2.Down
+Key.NumPad5 = Wiimote2.Left
+Key.J = Wiimote2.Two
+Key.K = Wiimote2.One
+Key.Delete = Wiimote2.Plus
+
+// Player 2 LEDs
+Wiimote2.LED1 = false;
+Wiimote2.LED2 = true;
+Wiimote2.LED3 = false;
+Wiimote2.LED4 = false;
