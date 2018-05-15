@@ -1,0 +1,17 @@
+// Wiimote script for Undertale
+
+Key.Up = Wiimote1.Right
+Key.Left = Wiimote1.Up
+Key.Right = Wiimote1.Down
+Key.Down = Wiimote1.Left
+Key.Z = Wiimote1.Two
+Key.X = Wiimote1.One
+Key.C = Wiimote1.Plus
+Key.F4 = Wiimote1.Home
+Key.Esc = Wiimote1.Minus
+
+// LEDs
+Wiimote1.LED1 = true;
+Wiimote1.LED2 = false;
+Wiimote1.LED3 = false;
+Wiimote1.LED4 = false; 
