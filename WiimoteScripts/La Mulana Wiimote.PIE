@@ -1,3 +1,5 @@
+// Wiimote script for La Mulana
+
 Key.Up = Wiimote1.Right
 Key.Left = Wiimote1.Up
 Key.Right = Wiimote1.Down
