@@ -1,0 +1,19 @@
+// Wiimote script for Shadow of Destiny
+
+Key.Up = Wiimote1.Right
+Key.Left = Wiimote1.Up
+Key.Right = Wiimote1.Down
+Key.Down = Wiimote1.Left
+Key.Enter = Wiimote1.Two
+Key.RCtrl = Wiimote1.One
+Key.PageDown = Wiimote1.Plus
+Key.Esc = Wiimote1.Home
+Key.Delete = Wiimote1.Minus
+Key.RightShift = Wiimote1.A
+Key.End = Wiimote1.B
+
+// LEDs
+Wiimote1.LED1 = true;
+Wiimote1.LED2 = false;
+Wiimote1.LED3 = false;
+Wiimote1.LED4 = false; 
