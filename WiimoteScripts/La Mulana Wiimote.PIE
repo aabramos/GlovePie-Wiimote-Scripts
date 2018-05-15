@@ -1,0 +1,17 @@
+Key.Up = Wiimote1.Right
+Key.Left = Wiimote1.Up
+Key.Right = Wiimote1.Down
+Key.Down = Wiimote1.Left
+Key.X = Wiimote1.One or Wiimote1.SwingVertical
+Key.Z = Wiimote1.Two
+Key.V = Wiimote1.A
+Key.C = Wiimote1.B
+Key.Enter = Wiimote1.Plus
+Key.Tab = Wiimote1.Minus
+key.Escape = Wiimote1.Home
+
+// LEDs
+Wiimote1.LED1 = true;
+Wiimote1.LED2 = false;
+Wiimote1.LED3 = false;
+Wiimote1.LED4 = false; 
